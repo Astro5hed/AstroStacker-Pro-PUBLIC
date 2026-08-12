@@ -18,7 +18,7 @@ Grab the latest release from the [Releases page](../../releases/latest). Downloa
 ## Built On
 
 AstroStacker Pro is a front-end that runs [Siril](https://siril.org/) for the actual
-stacking work, with several additional tools adapted or ported from real, published
+stacking work, with many processing tools, and several additional tools adapted or ported from real, published
 PixInsight and Siril scripts:
 
 - **Dark Structure Enhance** — ported from the real DarkStructureEnhance script by
