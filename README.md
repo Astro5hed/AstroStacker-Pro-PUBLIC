@@ -1,11 +1,12 @@
 # AstroStacker Pro
-
+<img width="3816" height="2092" alt="screenshot" src="https://github.com/user-attachments/assets/40e2bd74-03bf-44ac-a51a-2298f77e086a" />
 A Windows desktop app for astrophotography stacking and post-processing, built around
 [Siril](https://siril.org/)'s stacking engine with a full suite of additional processing
 tools layered on top.
 
 **This repository hosts pre-built Windows releases only — it does not contain the
 application's source code.**
+
 
 ## Download
 
