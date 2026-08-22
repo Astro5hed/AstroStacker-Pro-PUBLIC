@@ -53,13 +53,13 @@ AstroStacker Pro wraps the [Siril](https://siril.org/) command-line engine for c
 
 ---
 
-## Image Viewer
+## Image Editor
 
 Full-featured viewer at the centre of the app: zoom, pan, screen-transfer-function display stretch, embedded toolbar, and a preview region system so heavy tools can be tuned on a chosen area.
 
 Two preview conventions are used deliberately, depending on what you're judging:
 
-- **Main-viewer previews** for pixel-judgement tools (stretches, curves, star operations) — you need zoom for these
+- **Image Editor previews** for pixel-judgement tools (stretches, curves, star operations) — you need zoom for these
 - **In-dialog preview canvases** (560×420) for structure- and mask-judgement tools (RangeSelection Mask, Dust Lane Enhancer, Dark Structure Enhance) — these are judged at overview scale, and leaving the main viewer untouched lets you compare against the original side by side
 
 ---
