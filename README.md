@@ -13,7 +13,7 @@ AstroStacker Pro wraps the [Siril](https://siril.org/) command-line engine for c
 
 - [Features](#features)
 - [Stacking](#stacking)
-- [Image Viewer](#image-viewer)
+- [Image Editor](#image-editor)
 - [Tools](#tools)
   - [Masking](#masking)
   - [Image Prep](#image-prep)
