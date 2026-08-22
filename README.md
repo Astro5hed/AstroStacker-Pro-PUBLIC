@@ -4,7 +4,6 @@
 
 AstroStacker Pro wraps the [Siril](https://siril.org/) command-line engine for calibration and stacking, and adds a large native image-processing toolset built directly into its own image viewer.
 
-> **Design philosophy:** Siril is used *only* for stacking. Everything else — every stretch, mask, colour tool and star operation — is implemented natively in the app, with each tool built as a faithful port of a real, published reference (PixInsight documentation, PixelMath scripts, or original author source) rather than reverse-engineered from a description.
 <img width="3840" height="2100" alt="Screenshot1" src="https://github.com/user-attachments/assets/62991057-4a7f-4bc6-95e8-7647c24ba1aa" />
 <img width="3840" height="2100" alt="Screenshot2" src="https://github.com/user-attachments/assets/f4111319-1ee3-40e3-afdc-2d660fb38954" />
 
